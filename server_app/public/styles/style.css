@@ -1,0 +1,9 @@
+    h1 {
+        color: brown;
+    }
+
+    .footer-div{
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    }
